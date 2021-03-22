@@ -1,0 +1,12 @@
+{
+    "name": "samsonasik/rector-issue-010-autoload",
+    "authors": [
+        {
+            "name": "Abdul Malik Ikhsan",
+            "email": "samsonasik@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "rector/rector": "^0.10"
+    }
+}
